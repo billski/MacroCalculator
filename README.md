@@ -1,6 +1,6 @@
 # MacroCalculator
 Simple Macro Calculator 
-by Billski
+by Billski<br>
 Calculates the total daily calorie needs based on the Basal Metabolic Rate (BMR) and exercise calories burned. This total represents the amount of energy a person needs to maintain their current weight, considering their daily activity level. However, it does not adjust for specific goals like fat loss, maintenance, or muscle gain.
 
 To tailor the calorie calculation for specific goals:
