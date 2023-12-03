@@ -5,11 +5,11 @@ Calculates the total daily calorie needs based on the Basal Metabolic Rate (BMR)
 
 To tailor the calorie calculation for specific goals:
 
-Fat Loss: Typically, you would create a caloric deficit, meaning consuming fewer calories than the total daily calorie needs. A common approach is to reduce the total daily calories by a certain percentage (e.g., a 10-20% reduction from the maintenance calories).
+<b>Fat Loss:</b> Typically, you would create a caloric deficit, meaning consuming fewer calories than the total daily calorie needs. A common approach is to reduce the total daily calories by a certain percentage (e.g., a 10-20% reduction from the maintenance calories).
 
-Maintenance: For maintenance, you would use the calculated total daily calories without any adjustments. This aims to keep the body weight stable.
+<b>Maintenance:</b> For maintenance, you would use the calculated total daily calories without any adjustments. This aims to keep the body weight stable.
 
-Muscle Building: For muscle gain, a caloric surplus is usually needed. This means consuming more calories than the body burns. A common approach is to increase the total daily calories by a certain percentage (e.g., an additional 10-20% on top of maintenance calories).
+<b>Muscle Building:</b> For muscle gain, a caloric surplus is usually needed. This means consuming more calories than the body burns. A common approach is to increase the total daily calories by a certain percentage (e.g., an additional 10-20% on top of maintenance calories).
 
 In the script, the macro breakdown is a basic example (15% protein, 55% carbs, 30% fats). These percentages can be adjusted based on individual dietary needs and specific goals. For instance, muscle building often requires higher protein intake, while fat loss might focus on a balanced reduction across all macros with a higher protein intake to preserve muscle mass.
 
